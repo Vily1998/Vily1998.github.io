@@ -18,7 +18,7 @@ Shaolei Zhang is currently working toward his Ph.D. degree in the Key Laboratory
 News
 ======
 
-- [2023.05.02]	<font color=red>Two paper</font> is accepted by ACL 2023.
+- [2023.05.02]	<font color=red>Two papers</font> is accepted by ACL 2023.
 - [2023.01.21]	<font color=red>One paper</font> is accepted by ICLR 2023 (spotlight).
 - [2022.10.06]	<font color=red>Three papers</font> are accepted by EMNLP 2022.
 - [2022.02.24]	<font color=red>Three papers</font> are accepted by ACL 2022.
@@ -28,11 +28,13 @@ News
 Educations
 ======
 
-- \[2020-now\] [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)
+- \[ 2020 - now \] [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)
   - Ph.D. Candidate
   - Supervisor: [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en)
-- [2016-2020] [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/)
+  - Research interests: nature language processing, machine translation, simultaneous translation
+- [ 2016 - 2020 ] [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/)
   - Bachelor's degree
+  - Major: computer science and technology
 
 ------
 
