@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shaolei Zhang 张绍磊"
   avatar           : "profile.png"
-  bio              : "Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)"
-  location         : "Beijing"
-  employer         : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate\nInstitute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)"
+  location         : "13718537922"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gWwAWo4AAAAJ&hl=zh-CN"
   email            : "zhangshaolei20z@ict.ac.cn"
