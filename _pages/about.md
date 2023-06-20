@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaolei Zhang  |  张绍磊"
+title: "Shaolei Zhang  张绍磊"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
