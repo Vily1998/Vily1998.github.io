@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Shaolei Zhang is currently working toward his Ph.D. degree in the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS). He received his bachelor's degree from Beijing University of Posts and Telecommunications in 2020, majoring in computer science and technology. His research interests include nature language processing, machine translation and simultaneous translation. He has published 14 papers on the international conferences, and won the first place in the streaming transcription track of AutoSimTrans 2021.
+Shaolei Zhang is currently working toward his Ph.D. degree in the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS). He received his bachelor's degree from Beijing University of Posts and Telecommunications in 2020, majoring in computer science and technology. His research interests include nature language processing, machine translation, simultaneous translation and large language model. He has published 14 papers on the international conferences, and won the first place in the streaming transcription track of AutoSimTrans 2021. He has also released BayLing, a LLM with enhanced language alignment,
 </p>
 
 
@@ -18,6 +18,7 @@ Shaolei Zhang is currently working toward his Ph.D. degree in the Key Laboratory
 News
 ======
 
+- [2023.06.21]	Our LLM <font color=red>[BayLing](http://nlp.ict.ac.cn/bayling)</font> is released.
 - [2023.05.02]	<font color=red>Two papers</font> is accepted by ACL 2023.
 - [2023.01.21]	<font color=red>One paper</font> is accepted by ICLR 2023 (spotlight).
 - [2022.10.06]	<font color=red>Three papers</font> are accepted by EMNLP 2022.
@@ -38,9 +39,15 @@ Educations
 
 ------
 
-Publications
+Preprints
 ======
 
+- **Shaolei Zhang**, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng. BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models. *arXiv:2306.10968*. [[PDF](https://arxiv.org/abs/2306.10968)] [[Code](https://github.com/ictnlp/BayLing)] [[Homepage](http://nlp.ict.ac.cn/bayling)] [[Demo](http://nlp.ict.ac.cn/bayling/demo)]
+
+------
+
+Publications
+======
 - **Shaolei Zhang**, Yang Feng. End-to-End Simultaneous Speech Translation with Differentiable Segmentation. *ACL 2023 findings*. [[PDF](https://arxiv.org/pdf/2305.16093.pdf)] [[Code](https://github.com/ictnlp/DiSeg)]
 - Shoutao Guo, **Shaolei Zhang**, Yang Feng. Learning Optimal Policy for Simultaneous Machine Translation via Binary Search. *ACL 2023*. [[PDF](https://arxiv.org/pdf/2305.12774.pdf)] [[Code](https://github.com/ictnlp/BS-SiMT)]
 - **Shaolei Zhang**, Yang Feng. Hidden Markov Transformer for Simultaneous Machine Translation. *ICLR 2022 Spotlight*. [[PDF](https://openreview.net/pdf?id=9y0HFvaAYD6)] [[Code](https://github.com/ictnlp/HMT)]
@@ -58,7 +65,7 @@ Publications
 
 ------
 
-Award
+Awards
 ======
 - [2022]	ICT Director's Special Award (Xia Peisu Award) (计算所所长特别奖（夏培肃奖）)
 - [2022]	National scholarship (国家奖学金)
@@ -66,3 +73,10 @@ Award
 - [2020]	Beijing outstanding graduate (北京市优秀毕业生)
 - [2018]	Beijing merit student (北京市三好学生)
 - [2017]	National scholarship (国家奖学金)
+
+------
+
+Services
+======
+- 中国中文信息学会 青年工作委员会 学生执委会主任
+- Reviewer for ACL, EMNLP
