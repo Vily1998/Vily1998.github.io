@@ -30,8 +30,7 @@ Educations
 ======
 
 - \[ 2020 - now \] [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)
-  - Ph.D. Candidate
-  - Supervisor: [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en)
+  - Ph.D. Candidate, Supervisor: [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en)
   - Research interests: nature language processing, machine translation, simultaneous translation
 - [ 2016 - 2020 ] [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/)
   - Bachelor's degree
@@ -39,29 +38,31 @@ Educations
 
 ------
 
-Preprints
+Preprints & GitHub Repo
 ======
 
-- **Shaolei Zhang**, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng. BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models. *arXiv:2306.10968*. [[PDF](https://arxiv.org/abs/2306.10968)] [[Code](https://github.com/ictnlp/BayLing)] [[Homepage](http://nlp.ict.ac.cn/bayling)] [[Demo](http://nlp.ict.ac.cn/bayling/demo)]
+- **Shaolei Zhang**, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng. BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models. *arXiv:2306.10968*. [![paper](https://img.shields.io/badge/Paper-arXiv-green.svg)](https://arxiv.org/abs/2306.10968) [![github](https://img.shields.io/badge/Code-GitHub-gary.svg)](http://nlp.ict.ac.cn/bayling) [![homepage](https://img.shields.io/badge/BayLing-homepage-ff69b4.svg)](http://nlp.ict.ac.cn/bayling) [![demo](https://img.shields.io/badge/BayLing-online_demo-blue.svg)](http://nlp.ict.ac.cn/bayling/demo) 
+
+- **Shaolei Zhang**. Awesome Simultaneous Translation. *GitHub Repo*. [![github](https://img.shields.io/badge/Code-GitHub-gary.svg)](https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation)
 
 ------
 
 Publications
 ======
-- **Shaolei Zhang**, Yang Feng. End-to-End Simultaneous Speech Translation with Differentiable Segmentation. *ACL 2023 findings*. [[PDF](https://arxiv.org/pdf/2305.16093.pdf)] [[Code](https://github.com/ictnlp/DiSeg)]
-- Shoutao Guo, **Shaolei Zhang**, Yang Feng. Learning Optimal Policy for Simultaneous Machine Translation via Binary Search. *ACL 2023*. [[PDF](https://arxiv.org/pdf/2305.12774.pdf)] [[Code](https://github.com/ictnlp/BS-SiMT)]
-- **Shaolei Zhang**, Yang Feng. Hidden Markov Transformer for Simultaneous Machine Translation. *ICLR 2022 Spotlight*. [[PDF](https://openreview.net/pdf?id=9y0HFvaAYD6)] [[Code](https://github.com/ictnlp/HMT)]
-- **Shaolei Zhang**, Yang Feng. Information-Transport-based Policy for Simultaneous Translation. *EMNLP 2022 Oral*. [[PDF](https://arxiv.org/pdf/2210.12357.pdf)] [[Code](https://github.com/ictnlp/ITST)]
-- **Shaolei Zhang**, Shoutao Guo, Yang Feng. Wait-info Policy: Balancing Source and Target at Information Level for Simultaneous Machine Translation. *EMNLP 2022 findings*. [[PDF](https://arxiv.org/pdf/2210.11220.pdf)] [[Code](https://github.com/ictnlp/Wait-info)]
-- Shoutao Guo, **Shaolei Zhang**, Yang Feng. Turning Fixed to Adaptive: Integrating Post-Evaluation into Simultaneous Machine Translation. *EMNLP 2022 findings*. [[PDF](https://arxiv.org/pdf/2210.11900.pdf)] [[Code](https://github.com/ictnlp/PED-SiMT)]
-- **Shaolei Zhang**, Yang Feng. Modeling Dual Read/Write Paths for Simultaneous Machine Translation. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.176.pdf)] [[Code](https://github.com/ictnlp/Dual-Path)]
-- **Shaolei Zhang**, Yang Feng. Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.467.pdf)]
-- **Shaolei Zhang**, Yang Feng. Gaussian Multi-head Attention for Simultaneous Machine Translation. *ACL 2022 findings*. [[PDF](https://aclanthology.org/2022.findings-acl.238.pdf)] [[Code](https://github.com/ictnlp/GMA)]
-- **Shaolei Zhang**, Yang Feng. Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy. *EMNLP 2021 Oral*. [[PDF](https://aclanthology.org/2021.emnlp-main.581.pdf)] [[Code](https://github.com/ictnlp/MoE-Waitk)]
-- **Shaolei Zhang**, Yang Feng. Modeling Concentrated Cross-Attention for Neural Machine Translation with Gaussian Mixture Model. *EMNLP 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-emnlp.121.pdf)] 
-- **Shaolei Zhang**, Yang Feng. ICT’s System for AutoSimTrans 2021: Robust Char-Level Simultaneous Translation. *AutoSimTrans@NAACL 2021*. [[PDF](https://aclanthology.org/2021.autosimtrans-1.1.pdf)]
-- **Shaolei Zhang**, Yang Feng, Liangyou Li. Future-Guided Incremental Transformer for Simultaneous Translation. *AAAI 2021 Oral*. [[PDF](https://arxiv.org/pdf/2012.12465.pdf)]
-- **Shaolei Zhang**, Gang Lu, Kai Shuang. Opinion Knowledge Injection Network for Aspect Extraction. *ICONIP 2019 Oral*. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36711-4_56)]
+- **Shaolei Zhang**, Yang Feng. End-to-End Simultaneous Speech Translation with Differentiable Segmentation. *<font color=red>ACL 2023 findings</font>*. [[PDF](https://arxiv.org/pdf/2305.16093.pdf)] [[Code](https://github.com/ictnlp/DiSeg)]
+- Shoutao Guo, **Shaolei Zhang**, Yang Feng. Learning Optimal Policy for Simultaneous Machine Translation via Binary Search. *<font color=red>ACL 2023</font>*. [[PDF](https://arxiv.org/pdf/2305.12774.pdf)] [[Code](https://github.com/ictnlp/BS-SiMT)]
+- **Shaolei Zhang**, Yang Feng. Hidden Markov Transformer for Simultaneous Machine Translation. *<font color=red>ICLR 2022 Spotlight</font>*. [[PDF](https://openreview.net/pdf?id=9y0HFvaAYD6)] [[Code](https://github.com/ictnlp/HMT)]
+- **Shaolei Zhang**, Yang Feng. Information-Transport-based Policy for Simultaneous Translation. *<font color=red>EMNLP 2022 Oral</font>*. [[PDF](https://arxiv.org/pdf/2210.12357.pdf)] [[Code](https://github.com/ictnlp/ITST)]
+- **Shaolei Zhang**, Shoutao Guo, Yang Feng. Wait-info Policy: Balancing Source and Target at Information Level for Simultaneous Machine Translation. *<font color=red>EMNLP 2022 findings</font>*. [[PDF](https://arxiv.org/pdf/2210.11220.pdf)] [[Code](https://github.com/ictnlp/Wait-info)]
+- Shoutao Guo, **Shaolei Zhang**, Yang Feng. Turning Fixed to Adaptive: Integrating Post-Evaluation into Simultaneous Machine Translation. *<font color=red>EMNLP 2022 findings</font>*. [[PDF](https://arxiv.org/pdf/2210.11900.pdf)] [[Code](https://github.com/ictnlp/PED-SiMT)]
+- **Shaolei Zhang**, Yang Feng. Modeling Dual Read/Write Paths for Simultaneous Machine Translation. *<font color=red>ACL 2022</font>*. [[PDF](https://aclanthology.org/2022.acl-long.176.pdf)] [[Code](https://github.com/ictnlp/Dual-Path)]
+- **Shaolei Zhang**, Yang Feng. Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework. *<font color=red>ACL 2022</font>*. [[PDF](https://aclanthology.org/2022.acl-long.467.pdf)]
+- **Shaolei Zhang**, Yang Feng. Gaussian Multi-head Attention for Simultaneous Machine Translation. *<font color=red>ACL 2022 findings</font>*. [[PDF](https://aclanthology.org/2022.findings-acl.238.pdf)] [[Code](https://github.com/ictnlp/GMA)]
+- **Shaolei Zhang**, Yang Feng. Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy. *<font color=red>EMNLP 2021 Oral</font>*. [[PDF](https://aclanthology.org/2021.emnlp-main.581.pdf)] [[Code](https://github.com/ictnlp/MoE-Waitk)]
+- **Shaolei Zhang**, Yang Feng. Modeling Concentrated Cross-Attention for Neural Machine Translation with Gaussian Mixture Model. *<font color=red>EMNLP 2021 findings</font>*. [[PDF](https://aclanthology.org/2021.findings-emnlp.121.pdf)] 
+- **Shaolei Zhang**, Yang Feng. ICT’s System for AutoSimTrans 2021: Robust Char-Level Simultaneous Translation. *<font color=red>AutoSimTrans@NAACL 2021</font>*. [[PDF](https://aclanthology.org/2021.autosimtrans-1.1.pdf)]
+- **Shaolei Zhang**, Yang Feng, Liangyou Li. Future-Guided Incremental Transformer for Simultaneous Translation. *<font color=red>AAAI 2021 Oral</font>*. [[PDF](https://arxiv.org/pdf/2012.12465.pdf)]
+- **Shaolei Zhang**, Gang Lu, Kai Shuang. Opinion Knowledge Injection Network for Aspect Extraction. *<font color=red>ICONIP 2019 Oral</font>*. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36711-4_56)]
 
 ------
 
