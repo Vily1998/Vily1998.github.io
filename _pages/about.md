@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Shaolei Zhang is currently working toward his Ph.D. degree in the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS). He received his bachelor's degree from Beijing University of Posts and Telecommunications in 2020, majoring in computer science and technology. His research interests include nature language processing, machine translation, simultaneous translation and large language model. He has published 14 papers on the international conferences, and won the first place in the streaming transcription track of AutoSimTrans 2021. He has also released BayLing, a LLM with enhanced language alignment,
+Shaolei Zhang is currently working toward his Ph.D. degree in the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS). He received his bachelor's degree from Beijing University of Posts and Telecommunications in 2020, majoring in computer science and technology. His research interests include nature language processing, machine translation, simultaneous translation and large language model. He has published 14 papers on the international conferences, and won the first place in the streaming transcription track of AutoSimTrans 2021. He recently released BayLing, a LLM with enhanced language alignment.
 </p>
 
 
@@ -18,7 +18,7 @@ Shaolei Zhang is currently working toward his Ph.D. degree in the Key Laboratory
 News
 ======
 
-- [2023.06.21]	Our LLM <font color=red>[BayLing](http://nlp.ict.ac.cn/bayling)</font> is released.
+- [2023.06.21]	Our LLM [<font color=red>BayLing</font>](http://nlp.ict.ac.cn/bayling) is released.
 - [2023.05.02]	<font color=red>Two papers</font> is accepted by ACL 2023.
 - [2023.01.21]	<font color=red>One paper</font> is accepted by ICLR 2023 (spotlight).
 - [2022.10.06]	<font color=red>Three papers</font> are accepted by EMNLP 2022.
