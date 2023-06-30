@@ -30,7 +30,8 @@ Educations
 ======
 
 - \[ 2020 - now \] [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)
-  - Ph.D. Candidate  |  Supervisor: [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en)
+  - Ph.D. Candidate
+  - Supervisor: [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en)
   - Research interests: nature language processing, machine translation, simultaneous translation
 - [ 2016 - 2020 ] [Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/)
   - Bachelor's degree
